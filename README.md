@@ -3,6 +3,6 @@
 ### Linux
 - ClamAV
 ### Windows
-- [Kevin](/offsec-writeups/pdfs/Kevin.pdf)
+- [Kevin](/pdfs/Kevin.pdf)
 ### AD
 - Access
